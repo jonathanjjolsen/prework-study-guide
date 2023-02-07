@@ -2,13 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
 This project's goal was to create an easily accessible storage location for all of the information I might discover through my coding bootcamp program. Having notes at the ready can be difficult at times if they are not organized in an easy fashion. Creating this project puts all of the information I learn and need to remember in one place. The creation of it also gave me an introduction to various aspects of web development. Some of the languages I was exposed to during this process were JavaScript, CSS, and HTML. Learning how to design and customize a simple webpage has been an exciting process. While there is still so much to learn, I feel that this project has given me a good taste of what the world of coding has to offer.
 
 ## Installation
